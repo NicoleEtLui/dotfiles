@@ -5,8 +5,8 @@ source /usr/local/share/antigen/antigen.zsh
 antigen use oh-my-zsh
 antigen bundles <<EOBUNDLES
   # Pure prompt
-  mafredri/zsh-async
-  sindresorhus/pure
+  # mafredri/zsh-async
+  # sindresorhus/pure
 
   # Because I have the permission
   sudo

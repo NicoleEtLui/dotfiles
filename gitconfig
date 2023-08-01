@@ -1,6 +1,6 @@
 [user]
-	name = Florent Detry
-	email = florent@igloo.be
+	name = Martin Petit
+	email = martin@igloo.be
 [core]
 	excludesfile = ~/.gitignore_global
 	autocrlf = input
